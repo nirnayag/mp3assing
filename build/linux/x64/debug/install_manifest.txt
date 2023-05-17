@@ -1,0 +1,11 @@
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/mp3assing
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/nirnay/nir/mp3assing/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
